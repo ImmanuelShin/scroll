@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Auto Scroll</string>
+    <string name="tile_label">Auto Scroll</string>
+    <string name="a11y_description">Shows floating controls that automatically scroll the current app up or down. Auto Scroll only performs swipe gestures and does not read screen content.</string>
+</resources>

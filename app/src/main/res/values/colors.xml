@@ -1,0 +1,5 @@
+<resources>
+    <color name="bg">#FFFFFFFF</color>
+    <color name="accent">#FF0288D1</color>
+    <color name="launcher_bg">#FF0288D1</color>
+</resources>
